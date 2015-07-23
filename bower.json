@@ -1,7 +1,6 @@
 {
   "name": "css-grid-polyfill-binaries",
-  "version": "1.1.0",
-  "description": "Adds css-grid support to the client browsers",
+  "description": "Adds css-grid support to the client browsers using pure javascript",
   "main": [
     "css-polyfills.min.js"
   ],
